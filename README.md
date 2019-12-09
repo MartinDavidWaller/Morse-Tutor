@@ -10,13 +10,15 @@ pre-programmed PICAXE chips at a cost of £4.00 each - including P & P.
 Either send a cheque to the address below or make a PayPal payment 
 to martin@the-wallers.net.
 
-|Martin Waller
-|Olive Cottage,
-|6, Church Road,
-|Chelmondiston,
-|Ipswich,
-|Suffolk,
-|IP9 1HS
+<pre>
+Martin Waller
+Olive Cottage,
+6, Church Road,
+Chelmondiston,
+Ipswich,
+Suffolk,
+IP9 1HS
+</pre>
 
 If you have trouble with either mechanism then please contact me on Martin@The-Wallers.net
 
